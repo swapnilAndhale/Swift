@@ -1,9 +1,5 @@
 # Swift syntax highlighting for Vim
 
-# Original Source: http://wingsquare.com/blog/swift-script-syntax-highlighting-and-indentation-for-vim-text-editor/
-# Another helpful article: https://billyto.github.io/blog/swift-syntax-vim
-# More about Vim packages: http://vimcasts.org/episodes/packages/
-
 echo "--- creating ~/.vim/pack/bundle/start dir.."
 mkdir -p ~/.vim/pack/bundle/start
 
